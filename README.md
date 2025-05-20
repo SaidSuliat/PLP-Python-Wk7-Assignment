@@ -33,9 +33,6 @@ This project demonstrates how to load, explore, analyze, and visualize data usin
 3. Convert data_analysis_visualization.py into a notebook (if needed).
 4. Install dependencies by running:
 
-python
-Always show details
-
-Copy
-!pip install pandas matplotlib seaborn scikit-learn
-Run each cell to see the outputs.
+```bash
+   pip install pandas matplotlib seaborn scikit-learn
+#Run each cell to see the outputs.
